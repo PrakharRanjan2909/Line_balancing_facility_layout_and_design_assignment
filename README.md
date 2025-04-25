@@ -50,7 +50,9 @@ pip install networkx matplotlib
 ▶️ Running the program
 
 
-python line_balancer.py
+python line_balancing.py
+
+
 
 You will see:
 
